@@ -1,0 +1,5 @@
+data/bearing_dataset.npz
+models/
+.jupyter/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
